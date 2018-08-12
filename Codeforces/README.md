@@ -14,7 +14,7 @@ I solved the first four problems, and promoted to the Expert (Blue, rating 1600-
 
 Got the first 5 problems (+69). 
 
-## Round Educational Codeforces Round 46
+## Educational Codeforces Round 46
 
 Got four problems as in the usual Educationals, and rose to the higher end of the Expert category. 
 
@@ -24,7 +24,7 @@ This is the first contest I screwed up (rather severely) after four consecutive 
 
 ## Educational Codeforces Round 48
 
-Got four problems as in the usual Educationals, and rose to the higher end (again!) of the Expert category. 
+Got four problems as in the usual Educationals, and rose to the higher end (again!) of the Expert category. Also upsolved Problem E post-contest. 
 
 ## Round 503 (Division 2)
 
