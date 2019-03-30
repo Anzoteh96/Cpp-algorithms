@@ -29,3 +29,19 @@ Got four problems as in the usual Educationals, and rose to the higher end (agai
 ## Round 503 (Division 2)
 
 An extreme fortune where I was ranked 35/4750 (first top 100, or top 50 on Codeforces!) after nailing the first four problems. Pushed to the Candidate Master (Purple, 1900-2099) category. (Oh how cool is it to be able to edit tags for problems!)
+
+## Round 504 (Division 2)
+
+Solved A-D (should have gotten E...too), slight dip of rating (-12). 
+
+## Round 532 (Division 2)
+
+Got the first three problems (when really, I should have gotten E too), with a slight dip of rating (-7). 
+
+## Round 539 (Division 1)
+
+First Div 1 contest, which means there's no more stragghtforward problems like Div 2 A. Got A, B (almost D too! but too bad made a typo :( but still I upsolved it). 
+
+## Round 549 (Division 1)
+
+This div 1 contest is harder than the previous one, which means that getting 2 problems (A and B) was sufficent to raise my ratings by 30 points (after 3 slight decreases!)
